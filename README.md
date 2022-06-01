@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman2003now&label=Profile%20views&color=0e75b6&style=flat" alt="naman2003now" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naman2003now" alt="naman2003now" /></a> </p>
-
 - 🌱 I’m currently learning **postgresql and sequelize**
 
 - 💬 Ask me about **backend development with nodejs**
